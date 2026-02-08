@@ -108,4 +108,4 @@ python -m pip install -r requirements.txt
 ```
 
 ## License
-Add your preferred license here.
+Nezer@2026
