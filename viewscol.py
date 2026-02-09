@@ -19,6 +19,7 @@ def _build_theme_button(page):
         icon=icons.DARK_MODE if page.theme_mode == ThemeMode.LIGHT else icons.LIGHT_MODE,
         tooltip="Toggle theme",
         on_click=toggle,
+        hover_color= colors.BLUE_ACCENT,
     )
 
 
